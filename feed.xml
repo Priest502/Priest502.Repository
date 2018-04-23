@@ -15,7 +15,7 @@
 	<repository>
       <name>Kodibae</name>
       <username>kodibae</username>
-      <description>Exodus, CCloudtv, Incursion, SportsDevil</description>
+      <description>Exodus, CCloudtv, SportsDevil</description>
 	</repository>
 	
 	<repository>
@@ -24,4 +24,9 @@
       <description>Neptune Rising, Placenta</description>
 	</repository>
 
+	<repository>
+      <name>Nixgates</name>
+      <username>nixgates</username>
+      <description>Incursion, Anime Incursion</description>
+	</repository>
 </repositories>
