@@ -29,4 +29,10 @@
       <username>nixgates</username>
       <description>Incursion, Anime Incursion</description>
 	</repository>
+	
+	<repository>
+      <name>JesusBox</name>
+      <username>jesusbox</username>
+      <description>Genesis Reborn</description>
+	</repository>
 </repositories>
