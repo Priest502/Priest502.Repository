@@ -1,16 +1,4 @@
 <repositories>
-
-	<repository>
-      <name>TV ADDONS</name>
-      <username>tvaddonsco</username>
-      <description>EarthCam, USTVnow Plus, Live Tube</description>
-	</repository>
-   
-	<repository>
-      <name>mhancoc7</name>
-      <username>mhancoc7</username>
-      <description>USTVcatchup, Free Live TV, UKTV Play</description>
-	</repository>
 	
 	<repository>
       <name>Kodibae</name>
@@ -34,5 +22,29 @@
       <name>JesusBox</name>
       <username>jesusbox</username>
       <description>Genesis Reborn</description>
+	</repository>
+	
+	<repository>
+      <name>covenantkodi</name>
+      <username>covenantkodi</username>
+      <description>Covenant</description>
+	</repository>
+   
+	<repository>
+      <name>duncanh52</name>
+      <username>duncanh52</username>
+      <description>Maverick Tv</description>
+	</repository>
+	
+	<repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>EarthCam, USTVnow Plus, Live Tube</description>
+	</repository>
+   
+	<repository>
+      <name>mhancoc7</name>
+      <username>mhancoc7</username>
+      <description>USTVcatchup, Free Live TV, UKTV Play</description>
 	</repository>
 </repositories>
