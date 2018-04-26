@@ -19,8 +19,8 @@
 	</repository>
 	
 	<repository>
-      <name>JesusBox</name>
-      <username>jesusbox</username>
+      <name>JesusBoxRepo</name>
+      <username>jesusboxrepo</username>
       <description>Genesis Reborn</description>
 	</repository>
 	
