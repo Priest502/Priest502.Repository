@@ -1,5 +1,5 @@
 <addons>
-	<addon id="griffin" name="Griffin Repo" version="0.0.7" provider-name="griffin_303">
+	<addon id="repository.griffin" name="Griffin Repo" version="0.0.7" provider-name="griffin_303">
 	<extension point="xbmc.addon.repository" name="Griffin Repository">
             <dir>
             <info compressed="false">https://bitbucket.org/griffin303/griffin/raw/master/zips/addons.xml</info>
