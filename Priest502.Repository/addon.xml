@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="Priest502.Repository" name="[COLOR blue]Priest502 Repository[/COLOR]" version="0.0.3" provider-name="priest502">
+<addon id="Priest502.Repository" name="[COLOR blue]Priest502 Repository[/COLOR]" version="0.0.4" provider-name="priest502">
     <extension point="xbmc.addon.repository" name="[COLOR blue]Priest502 Repository[/COLOR]">
         <info compressed="false">https://raw.githubusercontent.com/priest502/priest502.repository/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/priest502/priest502.repository/addons.xml.md5</checksum>
